@@ -1,7 +1,7 @@
 
 /* 
   Blink
-  Menyalakan LED pada pin 10 selama 4 detik dan Mematikanya selama 4 detik.
+  Menyalakan LED pada pin 3 selama 4 detik dan Mematikanya selama 4 detik.
 
    Ini contoh kode Programnya.
  */
